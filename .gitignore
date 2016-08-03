@@ -1,0 +1,4 @@
+*.pro.user
+words_sorted
+*.o
+word_search
